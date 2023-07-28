@@ -1,3 +1,3 @@
-git add - prepares to add changes to my local repo
-git commit - commit those changes to the local
-git init - initiates the repo on my local - first
+git init - initiates a repository on my local machine
+git add - stage the changes I have made, waiting to be committed 
+git commit - save changes I've made to the local
